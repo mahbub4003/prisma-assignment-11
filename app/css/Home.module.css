@@ -1,0 +1,12 @@
+.main {
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.h1 {
+  color: red;
+}

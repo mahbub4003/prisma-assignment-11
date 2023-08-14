@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: brown;
+}
+.body {
+  width: 90%;
+  margin: auto;
+  text-transform: capitalize;
+  line-height: 26px;
+}
+.time {
+  text-align: right;
+  width: 90%;
+  font-weight: bold;
+}

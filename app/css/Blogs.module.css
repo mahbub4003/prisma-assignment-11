@@ -1,0 +1,33 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  background-color: azure;
+}
+.blogsHeader {
+  margin: 0 auto;
+  text-align: center;
+  color: brown;
+  background-color: rgb(173, 185, 185);
+}
+.blogs {
+  margin: auto;
+  width: 50%;
+  position: absolute;
+  top: 10%;
+  bottom: 40%;
+  left: 20%;
+  right: 20%;
+  background-color: white;
+  box-shadow: 5px 10px 8px 10px #888888;
+  padding: 20px;
+}
+.myBlogLink {
+  color: rgb(13, 9, 1);
+  text-decoration: none;
+  text-transform: capitalize;
+  transition-duration: 400ms;
+  font-weight: bold;
+}
+.myBlogLink:hover {
+  color: rgb(229, 153, 11);
+}
